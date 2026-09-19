@@ -1,17 +1,28 @@
 # Hi there, I'm Thong 👋
 
-🎓 **Information System Undergraduate** at Ton Duc Thang University (Expected Grad: 09/30)  
+🎓 **Information System "Undergraduate"** at Ton Duc Thang University (Expected Grad: 09/30)  
 💼 **Target Roles:** Data Engineer  
 📍 **Based in:** Ho Chi Minh City, Vietnam  
 
 ---
 
-### 💡 About Me
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
+<h3>💡 About Me</h3>
 
 - 🔭 I’m currently working on **Spring/Text_editor**
 - 🌱 Learning **Docker C/C++**
 - 💬 Ask me about **Python, Git, Linux**
 - ⚡ Fun fact: **I hate coding**
+
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2IxeDNmZnp4cDdhNW9oMzFzdGRvM2RjdGRhc3hlMDhxNm8wc2tmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VhWVAa7rUtT3xKX6Cd/giphy.gif" alt="Coding GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,8 +49,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhoenixReal&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixReal&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhoenixReal&theme=tokyonight" alt="GitHub Streak" width="80%" />
 </p>
 
 ---
